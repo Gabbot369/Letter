@@ -14,7 +14,7 @@ body {
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-  width: 90%;
+  width: 80%;
   max-width: 500px;
   transition: 0.5s;
   position: relative;
@@ -75,8 +75,8 @@ button:hover {
 }
 
 .next-btn {
- margin-top: 20px;
- margin-left: 345px;
+ margin-top: 10px;
+ margin-left: 135px;
  padding: 10px 20px;
  background-color: #ff6b81;
  color: white;
