@@ -14,17 +14,22 @@ body {
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-  width: 90%;
+  width: 75%;
   max-width: 500px;
   transition: 0.5s;
   position: relative;
 }
 
 img {
-  height: 600px;
-  width: 412px;
+  height: 300px;
+  width: 225px;
+  border-radius: 8px;
 }
 
-h1 {
+.text {
+  background-color: #ff6b81;
+  color: white;
+  padding: 10px;
+  border-radius: 12px;
   font-size: 16px;
 }
